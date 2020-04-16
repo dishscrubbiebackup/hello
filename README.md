@@ -1,2 +1,0 @@
-# hello
-Dish Scrubbie Website 
